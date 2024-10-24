@@ -1,0 +1,5 @@
+ref_genome: mm10
+chrom_sizes: /path/_ref/mm10/mm10.chrom.sizes
+bt2_index: /path/_ref/mm10/mm10
+DpnII_digest: /path/_ref/mm10/Digest_DpnII_mm10_DpnII_None_18-45-35_25-01-2023.txt
+target_bed: /path/_ref/mm10/chr19_mm10.bed
